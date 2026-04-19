@@ -1,4 +1,4 @@
-+import os
+import os
 from random import choice, randrange
 import sys
 import re
